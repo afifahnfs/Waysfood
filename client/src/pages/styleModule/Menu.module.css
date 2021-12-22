@@ -1,0 +1,94 @@
+.main{
+    position: absolute;
+    width: 100%;
+    background-color: #E5E5E5;
+    height: auto;
+
+}
+
+.wrap{
+    margin: 70px 60px;
+}
+
+.mainTitle{
+    /* font-family: Abhaya Libre ExtraBold;
+    font-style: normal; */
+    margin-top: 60px;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 42px;
+    margin-bottom: 40px;
+}
+
+.img{
+    padding: 10px;
+    height: 180px;
+    width: auto;
+}
+
+.title{
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.text{
+    font-size: 14px;
+    line-height: 19px;
+    color: #FF1515;
+}
+
+.btn{
+    width: 100%;
+    background-color: #FFC700;
+    font-weight: 800;
+    line-height: 19px;
+    color: #433434;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color: #433434;
+    color: #FFC700;
+}
+
+.col{
+    margin-bottom: 10px;
+}
+
+.btnEdit{
+    width: 100%;
+    background-color: #417ceb;
+    font-weight: 800;
+    line-height: 19px;
+    color: white;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+}
+
+.btnDelete{
+    width: 100%;
+    background-color: #e22c2c;
+    font-weight: 800;
+    line-height: 19px;
+    color: white;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+}
+
+.btnEdit:hover{
+    background-color: #417debb6;
+}
+
+.btnDelete:hover{
+    background-color: #e22c2cc9;
+}
+
+.cardBody{
+    height: 360px;
+    width: 230px;
+}

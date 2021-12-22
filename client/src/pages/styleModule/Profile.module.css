@@ -1,0 +1,178 @@
+.main{
+    position: absolute;
+    width: 100%;
+    background-color: #E5E5E5;
+    height: 800px;
+
+}
+
+.row{
+    margin: 70px 80px;
+}
+
+.title{
+    margin-bottom: 40px;
+    font-family: Abhaya Libre ExtraBold;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 42px;
+}
+
+.photo{
+    width: 165px;
+    border-radius: 5px;
+    margin-right: 25px;
+    height: 220px;
+}
+
+.label{
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 25px;
+    color: #613D2B;
+}
+
+.isi{
+    /* font-family: Avenir;
+    font-style: normal; */
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.btnProfile{
+    width: 180px;
+    height: 40px;
+    background: #433434;
+    font-size: 14px;
+    line-height: 17px;
+    font-family: sans-serif;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.btnProfile:hover{
+    background: #433434d7;
+}
+
+.left{
+    margin-left: 110px;
+}
+
+.cardTransaction{
+    width: 400px;
+    height: 115px;
+}
+
+.trsLeft{
+    width: 200px;
+}
+
+.namePartner{
+    font-family: Abhaya Libre ExtraBold;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 17px;
+}
+
+.tgl{
+    /* font-family: Avenir;
+    font-style: normal; */
+    font-size: 11px;
+    line-height: 12px;
+}
+
+.total{
+    /* font-family: Avenir;
+    font-style: normal; */
+    font-weight: 900;
+    font-size: 10px;
+    line-height: 14px;
+    color: #974A4A;
+}
+
+.trsRight{
+    margin-left: 30px;
+}
+
+.logo{
+    width: 130px;
+}
+
+.btnTrs{
+    width: 100%;
+    margin-top: 15px;
+    background-color: #bbf5d973 ;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 700;
+    color:  #00ff4c;
+    border: none;
+    border-radius: 5px;
+    padding: 0;
+    height: 20px;
+}
+
+.btnTrs:hover{
+    background-color: #00ff4c;
+    color:  white
+}
+
+.btnTrsApprove{
+    width: 100%;
+    margin-top: 15px;
+    background-color: #bbf5d973 ;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 700;
+    color:  #FF9900;
+    border: none;
+    border-radius: 5px;
+    padding: 0;
+    height: 20px;
+}
+
+.btnTrsApprove:hover{
+    background-color: #FF9900;
+    color:  white
+}
+
+.btnTrsOtw{
+    width: 100%;
+    margin-top: 15px;
+    background-color: #bbf5d973 ;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 700;
+    color:  #00D1FF;
+    border: none;
+    border-radius: 5px;
+    padding: 0;
+    height: 20px;
+}
+
+.btnTrsOtw:hover{
+    background-color: #00D1FF;
+    color:  white
+}
+
+.btnTrsCancel{
+    width: 100%;
+    margin-top: 15px;
+    background-color: #bbf5d973 ;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 700;
+    color:  #E83939;
+    border: none;
+    border-radius: 5px;
+    padding: 0;
+    height: 20px;
+}
+
+.btnTrsCancel:hover{
+    background-color: #E83939;
+    color:  white
+}

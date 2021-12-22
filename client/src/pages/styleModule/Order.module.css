@@ -1,0 +1,182 @@
+.main{
+    position: absolute;
+    width: 100%;
+    background-color: #E5E5E5;
+    height: auto;
+
+}
+
+.wrap{
+    margin: 70px 80px;
+}
+
+.mainTitle{
+    /* font-family: Abhaya Libre ExtraBold;
+    font-style: normal; */
+    margin-top: 60px;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 42px;
+    margin-bottom: 40px;
+}
+
+.text{
+    font-size: 18px;
+    line-height: 25px;
+    color: #613D2B;
+    font-weight: 500;
+}
+
+.btn{
+    background: #433434;
+    border-radius: 5px;
+    width: 222px;
+    height: 45px;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 19px;
+    margin-bottom: 8px;
+    color: white;
+}
+
+.btn:hover{
+    background: #433434d7;
+}
+
+.map{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.put{
+    height: 47px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.card{
+    border-bottom: 2px solid #433434;
+    height: 130px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.border{
+    border: 1px solid #433434;
+    height: 2px;
+}
+
+.cardTotal{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+.titleTable{
+    font-size: 18px;
+    line-height: 25px;
+    color: #613D2B;
+    margin-top: 20px;
+    font-weight: 500;
+}
+
+.cardOrder{
+    display: flex;
+}
+
+.img{
+    width: 80px;
+    height: 80px;
+}
+
+.cookName{
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 17px;
+    font-family: Abhaya Libre ExtraBold;
+}
+
+.pesan{
+    margin-left: 20px;
+}
+
+.qty{
+    width: 30px;
+    padding-left: 8px;
+    height: 20px;
+    background: #F6E6DA;
+    border-radius: 5px;
+    border: none;
+    margin: 0 5px;
+}
+
+.btnPlusMin{
+    height: 25px;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 25px;
+    align-items: center;
+    color: #4F3D31;
+    border: none;
+    background-color: #E5E5E5;
+}
+
+.price{
+    font-size: 14px;
+    color: #FF0000;
+}
+
+.cardPrice{
+    text-align: end;
+}
+
+.subtotal{
+    font-size: 14px;
+}
+
+.priceSubtotal{
+    text-align: end;
+}
+
+.total{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FF0000;
+}
+
+.btnWrap{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btnOrder{
+    width: 260px;
+    height: 40px;
+    left: 980px;
+    background: #433434;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    color: white;
+    font-weight: 500;
+}
+
+.btnOrder:hover{
+    background: #433434d0;
+}
+
+.modalContent {
+    width: 1000px!important;
+    height: 540px;
+    background-color: white;
+    padding: 20px;
+}
+
+.btnTrash{
+    border: none;
+    background-color: #E5E5E5;
+}
